@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/NomadToDo/static/js/main.af08876d.js",
+    "static/js/571.2cdd5d62.js": "/NomadToDo/static/js/571.2cdd5d62.js",
+    "static/media/Fontisto.ttf": "/NomadToDo/static/media/Fontisto.c0edd68811e0237502fe.ttf",
+    "favicon.ico": "/NomadToDo/favicon.ico",
+    "index.html": "/NomadToDo/index.html",
+    "favicon-32.png": "/NomadToDo/favicon-32.png",
+    "favicon-16.png": "/NomadToDo/favicon-16.png",
+    "manifest.json": "/NomadToDo/manifest.json",
+    "serve.json": "/NomadToDo/serve.json",
+    "main.af08876d.js.map": "/NomadToDo/static/js/main.af08876d.js.map",
+    "571.2cdd5d62.js.map": "/NomadToDo/static/js/571.2cdd5d62.js.map"
+  },
+  "entrypoints": [
+    "static/js/571.2cdd5d62.js",
+    "static/js/main.af08876d.js"
+  ]
+}
